@@ -1,0 +1,11 @@
+node_modules
+dist
+.nitro
+.output
+*.log
+.anchor
+.validator
+test-ledger
+programs/**/target
+**/*-keypair.json
+.DS_Store
