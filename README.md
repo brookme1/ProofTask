@@ -8,7 +8,7 @@ SOL escrow for human proof of AI training data. Creators lock a reward in a task
 |---|---|
 | ID | `2EXa31Ao7M9BU5MhJfvMmzbgzWzRj1XdQ2sNhD6xnaUy` |
 | Source | `programs/prooftask` (Anchor 1.2 / Rust) |
-| Binary | `programs/prooftask/target/deploy/prooftask.so` |
+| Binary | `programs/prooftask/deploy/prooftask.so` |
 
 Instructions: `initialize_platform`, `initialize_reputation`, `create_task`, `accept_task`, `submit_work`, `approve_submission`, `reject_submission`, `cancel_task`.
 
